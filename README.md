@@ -16,7 +16,7 @@
 
 ***Пример №1***
 
-| Rank| Employer | Global number of employees | Median annual pay | 
+| Rank| Employer | Employees count | Median salary | 
 | ------ | ------ | ------ | ------ |
 | 1 | Walmart | 2,300,000 | $19,177 |
 | 2 | Amazon | 566,000 | $38,466 |
@@ -31,7 +31,7 @@
 
 ***Пример №2***
 
-| Rank| Employer | Global number of employees | Median annual pay | 
+| Rank| Employer | Employees count | Median salary | 
 | ------ | ------ | ------ | ------ |
 | 1 | Walmart | 2,300,000 | $19,177 |
 | 2 | Amazon | 566,000 | $38,466 |
@@ -49,7 +49,7 @@
 
 ***Пример №3***
 
-| Rank ▼ | Employer | Global number of employees | Median annual pay | 
+| Rank ▼ | Employer | Employees count | Median salary | 
 | ------ | ------ | ------ | ------ |
 | 25 | Aramark | 215,000 | $13,373 |
 | 24 | HCA Healthcare | 221,491 | $55,354 |
@@ -68,7 +68,7 @@
 | CSV | TSV |
 | - | - |
 
-| Rank| Employer | Global number of employees | Median annual pay | 
+| Rank| Employer | Employees count | Median salary | 
 | ------ | ------ | ------ | ------ |
 | 1 | Walmart | 2,300,000 | $19,177 |
 | 2 | Amazon | 566,000 | $38,466 |
